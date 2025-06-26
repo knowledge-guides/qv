@@ -3,7 +3,7 @@ How to Download the Latest Version of Quicken in 2025 – A Complete Guide
 
 .. image:: get.png
    :alt: quicken download
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci?aHR0cHM6Ly9xdWlja2VuZG93bmxvYWQtbGF0ZXN0dmVyc2lvbi5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 Looking for the easiest way to manage your finances in 2025? The latest version of **Quicken** is here to simplify your financial life with smarter features, cloud syncing, and powerful tools—all in one platform.
 
